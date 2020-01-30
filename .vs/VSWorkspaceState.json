@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\obj",
     "\\Properties"
   ],
-  "SelectedNode": "\\heloWOrld1.sln",
+  "SelectedNode": "\\obj\\heloWOrld1.csproj.nuget.g.props",
   "PreviewInSolutionExplorer": false
 }
